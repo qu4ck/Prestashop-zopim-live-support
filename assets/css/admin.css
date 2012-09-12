@@ -1,0 +1,6 @@
+.zopim{padding: 5px;font:normal 12px Arial, Helvetica, Sans-serif;width:900px;}
+.zopim .left{float: left;margin-right: 5px; width: 400px;vertical-align:top;}
+.zopim .left label{padding-left:0!important;margin-left:0!important;width:auto;text-align:left!important;}
+.zopim .left .margin-form{padding-left:0;}
+.zopim .right{float: left;margin-left: 5px; width: 485px; vertical-align:top;}
+.zopim .right img{width:500px;}
